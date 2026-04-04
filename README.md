@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**victorfpaiva/victorfpaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github!
+My name is Victor and I am a Data and IA enthusiast focused on building data solutions and intelligent systems.
 
-Here are some ideas to get you started:
+## Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorfpaiva/)
+
+:email: victorfpaiva@gmail.com
+
+## 💻 Tech Stack & Skills
+
+![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![sql](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green)
