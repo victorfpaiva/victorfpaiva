@@ -5,9 +5,9 @@ My name is Victor and I am a Data and IA enthusiast focused on building data sol
 
 ## Connect with me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorfpaiva/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/victorfpaiva/)
 
-:email: victorfpaiva@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:victorfpaiva@gmail.com)
 
 ## 💻 Tech Stack & Skills
 
