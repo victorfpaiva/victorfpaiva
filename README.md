@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Welcome to my Github!
-My name is Victor and I am a Data and IA enthusiast focused on building data solutions and intelligent systems.
+My name is Victor and I am a Data & IA enthusiast focused on building data solutions and intelligent systems.
 
 ## Connect with me
 
